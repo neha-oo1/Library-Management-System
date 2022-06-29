@@ -1,4 +1,4 @@
-<h1 align='center'>Library Management System</h1>
+<h1 align='center'>LibManage - Library Management System</h1>
 
 - <b>Languages and Technologies used : </b> Java, Swing, Mysql & Netbeans
 
